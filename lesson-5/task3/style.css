@@ -5,7 +5,9 @@
 .company-data {
   color: yellow;
 }
-li.user-data,
-span.user-data {
+li.user-data {
   font-size: 24px;
+}
+span.user-data {
+  font-size: 10px;
 }
