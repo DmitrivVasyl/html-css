@@ -1,3 +1,6 @@
+body {
+  clear: both;
+}
 div {
   height: 200px;
   float: left;
