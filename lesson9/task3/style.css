@@ -1,5 +1,6 @@
 body {
-  clear: both;
+  height: 300px;
+  margin: 0%;
 }
 div {
   height: 200px;
@@ -21,4 +22,7 @@ div {
 }
 .block_black {
   background-color: black;
+}
+.div1 {
+  clear: both;
 }
