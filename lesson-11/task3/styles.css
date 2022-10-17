@@ -1,9 +1,9 @@
 .dropdown {
   margin: 16px;
   display: inline-block;
-  position: relative;
 }
 .menu-button {
+  display: inline-block;
   padding: 16px;
   background-color: darkgreen;
   opacity: 0.8;
@@ -17,6 +17,7 @@
 .menu-list {
   display: none;
   padding: 0;
+  margin-top: 0;
 }
 .dropdown:hover .menu-list {
   display: block;
