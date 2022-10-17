@@ -1,6 +1,12 @@
 .not_displayed {
   display: none;
+  width: 100px;
+  height: 100px;
+  background-color: coral;
 }
 .hiddenen {
   visibility: hidden;
+  width: 100px;
+  height: 100px;
+  background-color: coral;
 }
