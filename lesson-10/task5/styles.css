@@ -11,3 +11,8 @@ header {
   background-color: bisque;
   flex-basis: 300px;
 }
+.articles-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
