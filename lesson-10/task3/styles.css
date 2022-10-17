@@ -48,10 +48,11 @@ main {
 .li2 {
   list-style-type: none;
   margin-left: 16px;
+  height: 40px;
 }
 #newss {
   margin: 16px auto;
 }
 .news_list {
-  height: 40px;
+  padding: 0;
 }
