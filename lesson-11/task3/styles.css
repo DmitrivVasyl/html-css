@@ -37,3 +37,6 @@
 .menu-item:hover {
   background-color: ghostwhite;
 }
+* {
+  box-sizing: border-box;
+}
