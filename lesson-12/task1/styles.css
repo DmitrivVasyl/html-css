@@ -1,7 +1,9 @@
-* {
-  margin: 32px;
+html {
   font-family: Roboto, sans-serif;
   font-size: 18px;
+}
+section {
+  margin: 32px;
 }
 h1 {
   word-spacing: 20px;
@@ -9,6 +11,7 @@ h1 {
   text-align: center;
 }
 p {
+  margin: 0;
   line-height: 28px;
 }
 b {
