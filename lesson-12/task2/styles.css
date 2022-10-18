@@ -5,10 +5,11 @@ html {
 h1 {
   text-overflow: ellipsis;
   font-size: 74px;
-  text-align: center;
   white-space: nowrap;
   overflow: hidden;
   width: 50%;
+  margin: auto;
+  text-align: center;
 }
 div {
   height: 200px;
