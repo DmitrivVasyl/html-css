@@ -4,11 +4,10 @@
 .image-contaimer {
   margin: 50px 0;
 }
-.big-img {
+.main-img {
   margin: 0 auto;
   display: block;
   max-width: 100%;
-  height: auto;
   border-radius: 20px;
 }
 figcaption {
