@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Checkbox</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+      integrity="sha256-WAgYcAck1C1/zEl5sBl5cfyhxtLgKGdpI3oKyJffVRI="
+      crossorigin="anonymous"
+    />
+    <style>
+      .checkbox {
+        position: relative;
+        padding-left: 35px;
+        font-size: 24px;
+        margin: 16px;
+        display: inline-block;
+      }
+      input {
+        visibility: hidden;
+      }
+      .checkmark {
+        width: 25px;
+        height: 25px;
+        background-color: #d3d3d3;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+      input:checked + .checkmark {
+        background-color: #006400;
+      }
+    </style>
+  </head>
+
+  <body>
+    <label class="checkbox"
+      >Checkbox
+      <input type="checkbox" />
+      <span class="checkmark"></span>
+    </label>
+  </body>
+</html>
