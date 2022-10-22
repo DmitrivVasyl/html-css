@@ -19,6 +19,8 @@
       }
       input {
         visibility: hidden;
+        width: 0;
+        height: 0;
       }
       .checkmark {
         width: 25px;
@@ -27,6 +29,7 @@
         position: absolute;
         top: 0;
         left: 0;
+        display: inline-block;
       }
       input:checked + .checkmark {
         background-color: #006400;
