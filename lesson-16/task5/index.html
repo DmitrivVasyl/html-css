@@ -24,7 +24,7 @@
       <input
         type="email"
         name="email"
-        placeholder="example@domain.com."
+        placeholder="example@domain.com"
         required
       />
       <input type="file" name="avatar" />
@@ -38,14 +38,22 @@
       ></textarea>
       <input type="password" name="password" value="secret" />
       <div class="languages">
-        <input style="display: inline" type="radio" name="language" />HTML
         <input
-          style="display: inline"
+          style="display: inline; margin: 0"
+          type="radio"
+          name="language"
+        />HTML
+        <input
+          style="display: inline; margin: 0"
           type="radio"
           name="language"
           checked
         />CSS
-        <input style="display: inline" type="radio" name="language" />JavaScript
+        <input
+          style="display: inline; margin: 0"
+          type="radio"
+          name="language"
+        />JavaScript
       </div>
       <input type="range" name="learningProgress" value="30" />
       <select name="framework">
