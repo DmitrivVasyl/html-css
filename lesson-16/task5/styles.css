@@ -1,11 +1,11 @@
+* {
+  box-sizing: border-box;
+}
 input {
-  display: block;
   margin: 8px;
+  display: block;
 }
 
 form {
   margin: 32px;
-}
-* {
-  box-sizing: border-box;
 }
