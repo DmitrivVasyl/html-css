@@ -3,7 +3,6 @@
 }
 input {
   margin: 8px;
-  display: block;
 }
 
 form {
@@ -12,9 +11,7 @@ form {
 textarea {
   margin: 8px;
 }
-div {
-  margin: 8px;
-}
+
 select {
   margin: 8px;
 }
