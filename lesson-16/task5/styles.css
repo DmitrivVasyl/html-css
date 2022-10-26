@@ -1,20 +1,9 @@
 * {
   box-sizing: border-box;
 }
-input {
+div {
   margin: 8px;
 }
-
 form {
   margin: 32px;
-}
-textarea {
-  margin: 8px;
-}
-
-select {
-  margin: 8px;
-}
-button {
-  margin: 8px;
 }
