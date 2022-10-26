@@ -9,3 +9,15 @@ input {
 form {
   margin: 32px;
 }
+textarea {
+  margin: 8px;
+}
+div {
+  margin: 8px;
+}
+select {
+  margin: 8px;
+}
+button {
+  margin: 8px;
+}
