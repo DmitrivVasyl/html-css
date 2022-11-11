@@ -19,6 +19,7 @@
   height: 50px;
   border: 4px lightgray solid;
   border-top: 4px solid black;
+  margin: auto;
   margin-bottom: 8px;
   animation: circle 2s linear infinite;
   border-radius: 50%;
