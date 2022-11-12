@@ -55,15 +55,19 @@ h1 {
   font-size: 5vw;
   text-align: center;
 }
-.nav-list-item {
+.nav-list {
   padding: none;
   list-style: none;
+}
+.nav-list-item {
   color: white;
   background-color: #808080;
   margin-bottom: 0.5em;
+  line-height: 2em;
 }
 .nav-list-link {
-  padding: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   color: white;
   text-decoration: none;
   overflow: hidden;
