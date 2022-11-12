@@ -28,6 +28,7 @@ h1 {
 .main {
   display: flex;
   font-size: 1.25em;
+  flex-grow: 1;
 }
 .navigation {
   padding: 0.5em;
