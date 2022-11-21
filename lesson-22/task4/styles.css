@@ -35,7 +35,7 @@ button {
 .nav-list-link {
   color: white;
   padding: 0.5em;
-  display: block;
+
   text-decoration: none;
   overflow: hidden;
   text-overflow: ellipsis;
