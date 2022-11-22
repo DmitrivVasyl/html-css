@@ -90,6 +90,10 @@ img {
   .my-container {
     display: flex;
   }
+  .navigation {
+    width: 20vw;
+  }
+
   main {
     flex-direction: column;
   }
