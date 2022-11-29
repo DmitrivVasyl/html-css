@@ -13,6 +13,9 @@
   @include for-large-up {
     background-color: #c47;
   }
+  @include for-medium-up-up {
+    background-color: #a61;
+  }
 }
 .container {
   display: flex;
